@@ -1,0 +1,7 @@
+name: FrontEndStack
+runtime: go
+description: Infra to Host a Static site
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
